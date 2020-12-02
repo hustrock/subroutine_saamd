@@ -1,9 +1,7 @@
 # subroutine_saamd:
 
 Subroutines used in self-adaptive accelerated molecular dynamics (SAAMD) 
-code, which is based on MOLDY code (The MOLDY source code can be obtained 
-from the CCP5 program library, or directly from Oxford, with information 
-about the latest release). 
+code, which is based on mdcask code. 
 
 The subroutines are used to (1) to set the boost atoms in AV, (2) calculate
 the displacement of atoms, (3) calculate the boost energy and force for 
