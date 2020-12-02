@@ -13,4 +13,4 @@ according to equations in our paper (https://iopscience.iop.org/article/10.1088/
 The system evolves then according to the energy from the empirical potential
 and biased potential.
 
-These subroutines can be compiled with MOLDY code.
+These subroutines can be compiled with mdcask code or other MD code.
